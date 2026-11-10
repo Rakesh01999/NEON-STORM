@@ -4,7 +4,7 @@ NEON STORM is a browser-based twin-stick arena shooter. Pilot a neon ship, survi
 
 ## Live Demo
 
-No public deployment URL is configured in this repository yet. Add the live URL here when the game is published.
+[Play NEON STORM](https://neon-storm.rbiswas0199-9.workers.dev/)
 
 ## Preview
 
